@@ -8,24 +8,25 @@
 JavaWorld/
     ├── src/
     ├──── codewars/
-    ├─────── fundamentals/
-    ├────────── arrays/
-    ├───────────── Solution.java
-    ├────────── mathematics/
-    ├───────────── GrassHopper.java
+    ├────── fundamentals/
+    ├───────── arrays/
+    ├──────────── Solution.java
+    |──────────── SolutionStringToArray.java
+    ├───────── mathematics/
+    ├──────────── GrassHopper.java
     ├──── edu/
-    ├─────── algorithms/
-    ├───────────── binarysearch/
-    ├───────────── breadthfirstsearch/
-    ├───────────── dijkstra/
-    ├───────────── dynamicprograming/
-    ├───────────── hashtable/
-    ├───────────── neareastneighbors/
-    ├───────────── nextsteps/
-    ├───────────── quicksort/
-    ├───────────── recursion/
-    ├───────────── selectionsort/
-    ├───────────── sweettooh/
+    ├────── algorithms/
+    ├──────────── binarysearch/
+    ├──────────── breadthfirstsearch/
+    ├──────────── dijkstra/
+    ├──────────── dynamicprograming/
+    ├──────────── hashtable/
+    ├──────────── neareastneighbors/
+    ├──────────── nextsteps/
+    ├──────────── quicksort/
+    ├──────────── recursion/
+    ├──────────── selectionsort/
+    ├──────────── sweettooh/
     ├── .gitignore
     ├── README.md
 
