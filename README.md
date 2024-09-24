@@ -16,17 +16,21 @@ JavaWorld/
     ├──────────── GrassHopper.java
     ├──── edu/
     ├────── algorithms/
-    ├──────────── binarysearch/
-    ├──────────── breadthfirstsearch/
-    ├──────────── dijkstra/
-    ├──────────── dynamicprograming/
-    ├──────────── hashtable/
-    ├──────────── neareastneighbors/
-    ├──────────── nextsteps/
-    ├──────────── quicksort/
-    ├──────────── recursion/
-    ├──────────── selectionsort/
-    ├──────────── sweettooh/
+    ├───────── binarysearch/
+    ├───────── breadthfirstsearch/
+    ├───────── dijkstra/
+    ├───────── dynamicprograming/
+    ├───────── hashtable/
+    ├───────── neareastneighbors/
+    ├───────── nextsteps/
+    ├───────── quicksort/
+    ├───────── recursion/
+    ├───────── selectionsort/
+    ├───────── sweettooh/
+    ├────── tutorialspoint/
+    ├───────── collections/
+    ├──────────── CollectionsExample.java
+    |
     ├── .gitignore
     ├── README.md
 
