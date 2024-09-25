@@ -2,7 +2,7 @@ package edu.tutorialspoint.collections;
 
 import java.util.*;
 
-public class CollectionsExample {
+public class Collections {
     public static void main(String[] args) {
 
         // ArrayList
@@ -41,7 +41,5 @@ public class CollectionsExample {
 
         System.out.println("HashMap:");
         System.out.println("\t" + m1);
-
     }
-
 }
