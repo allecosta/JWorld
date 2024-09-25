@@ -29,8 +29,20 @@ JavaWorld/
     ├───────── sweettooh/
     ├────── tutorialspoint/
     ├───────── collections/
-    ├──────────── CollectionsExample.java
-    |
+    ├──────────── Collections.java
+    ├───────── list/
+    ├──────────── CollectionsArrayList.java
+    ├──────────── CollectionsLinkedList.java
+    ├──────────── InterfaceList.java
+    ├───────── map/
+    ├──────────── CollectionsHasMap.java
+    ├──────────── CollectionsTreeMap.java
+    ├───────── queue/
+    ├──────────── InterfaceQueue.java
+    ├───────── set/
+    ├──────────── CollectionsHashSet.java
+    ├──────────── CollectionsLinkedHashSet.java
+    ├──────────── CollectionsTreeSet.java
     ├── .gitignore
     ├── README.md
 
