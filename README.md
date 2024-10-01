@@ -1,49 +1,22 @@
-## 🌎 JavaWorld 
+# 🌎 JavaWorld
 
-*Resolução de desafios de código na plataforma codewars e, estudos de algoritmos e estrutura de dados.*
+*Estudos da linguagem Java com resolução de desafios de código, exercícios tutoriais, estudos de algoritmos e estrutura de dados.*
 
-## 🏛 Estrutura
 
-```
-JavaWorld/
-    ├── src/
-    ├──── codewars/
-    ├────── fundamentals/
-    ├───────── arrays/
-    ├──────────── Solution.java
-    |──────────── SolutionStringToArray.java
-    ├───────── mathematics/
-    ├──────────── GrassHopper.java
-    ├──── edu/
-    ├────── algorithms/
-    ├───────── binarysearch/
-    ├───────── breadthfirstsearch/
-    ├───────── dijkstra/
-    ├───────── dynamicprograming/
-    ├───────── hashtable/
-    ├───────── neareastneighbors/
-    ├───────── nextsteps/
-    ├───────── quicksort/
-    ├───────── recursion/
-    ├───────── selectionsort/
-    ├───────── sweettooh/
-    ├────── tutorialspoint/
-    ├───────── collections/
-    ├──────────── Collections.java
-    ├───────── list/
-    ├──────────── CollectionsArrayList.java
-    ├──────────── CollectionsLinkedList.java
-    ├──────────── InterfaceList.java
-    ├───────── map/
-    ├──────────── CollectionsHasMap.java
-    ├──────────── CollectionsTreeMap.java
-    ├───────── queue/
-    ├──────────── InterfaceQueue.java
-    ├───────── set/
-    ├──────────── CollectionsHashSet.java
-    ├──────────── CollectionsLinkedHashSet.java
-    ├──────────── CollectionsTreeSet.java
-    ├── .gitignore
-    ├── README.md
+## 📚 Estrutura
 
-```
+- [Codewars](/src/codewars/fundamentals/)
+    - Arrays
+    - Mathematics
+
+- [tutorialspoint](/src/edu/tutorialspoint/)
+    - Basic (syntax, variable)
+    - Collections
+    - Interfaces (list, map, queue, set)
+    - Miscellaneous (Stream API)
+
+
+## Referência
+
+ - [tutorialspoint](https://www.tutorialspoint.com/java/index.htm)
+ - [Codewars](https://www.codewars.com/users/sign_in)
