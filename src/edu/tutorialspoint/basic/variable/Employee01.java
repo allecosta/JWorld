@@ -1,11 +1,5 @@
 package edu.tutorialspoint.basic.variable;
 
-/**
- * Examplo 1: Instância de variável
- * São declaradas dentro da classe, mas fora de métodos, contrutor ou qualquer outro bloco.
- * 
- */
-
 public class Employee01 {
     private String name;
     private double salary;
