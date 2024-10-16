@@ -5,7 +5,7 @@ public class Program {
     /**
      * @param dividend
      * @param divisor
-     * @return quotient
+     * @return result
      * @throws IllegalArgumentException
      */
     public double divide(int dividend, int divisor) throws IllegalArgumentException {
