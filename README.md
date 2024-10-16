@@ -10,9 +10,10 @@
     - Mathematics
 
 - [tutorialspoint](/src/edu/tutorialspoint/)
-    - Basic (syntax, variable)
+    - Advanced (functional e lambda)
+    - Basic (casting, comments, data, operators syntax, unicode e variable)
     - Collections
-    - Interfaces (list, map, queue, set)
+    - Interfaces (list, map, queue e set)
     - Miscellaneous (Stream API)
 
 
