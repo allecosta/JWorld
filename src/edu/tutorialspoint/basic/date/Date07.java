@@ -5,7 +5,6 @@ import java.util.*;
 public class Date07 {
     public static void main(String[] args) {
         GregorianCalendar gCalendar = new GregorianCalendar();
-
         String[] months = {"JAN", "FEV", "MAR", "ABR", "MAI", "JUN", "JUL", "AGO", "SET", "OUT", "NOV", "DEZ"};
         int year  = gCalendar.get(Calendar.YEAR);
 

@@ -7,7 +7,6 @@ public class Date02 {
     public static void main(String[] args) {
         Date dataNow = new Date();
         SimpleDateFormat ft = new SimpleDateFormat("dd.MM.yyyy - hh:mm:ss z");
-
-        System.out.println(ft.format(dataNow));
+        System.out.println(ft.format(dataNow)); // 21.10.2024 - 02:58:37 BRT
     }
 }
