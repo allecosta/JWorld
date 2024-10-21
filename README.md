@@ -11,7 +11,7 @@
 
 - [tutorialspoint](/src/edu/tutorialspoint/)
     - Advanced (functional e lambda)
-    - Basic (casting, comments, data, operators syntax, unicode e variable)
+    - Basic (casting, comments, data, date, input, operators, syntax, unicode e variable)
     - Collections
     - Interfaces (list, map, queue e set)
     - Miscellaneous (Stream API)
