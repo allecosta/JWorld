@@ -9,15 +9,18 @@
     - Arrays
     - Mathematics
 
-- [tutorialspoint](/src/edu/tutorialspoint/)
-    - Advanced (functional e lambda)
-    - Basic (casting, comments, data, date, input, operators, syntax, unicode e variable)
-    - Collections
-    - Interfaces (list, map, queue e set)
-    - Miscellaneous (Stream API)
+- [Edu](/src/edu/tutorialspoint/)
+    - tutorialspoint
+        - Advanced (functional e lambda)
+        - Basic (casting, comments, data, date, input, operators, syntax, unicode e variable)
+        - Collections
+        - Interfaces (list, map, queue e set)
+        - Miscellaneous (Stream API)
+
+- [Test](/src/test/)
 
 
 ## Referência
-
- - [tutorialspoint](https://www.tutorialspoint.com/java/index.htm)
- - [Codewars](https://www.codewars.com/users/sign_in)
+- [https://www.codewars.com/users/sign_in](https://www.codewars.com/users/sign_in)
+ - [https://www.tutorialspoint.com/java/index.htm](https://www.tutorialspoint.com/java/index.htm)
+ - [https://www.vogella.com/tutorials/JUnit/article.html](https://www.vogella.com/tutorials/JUnit/article.html)
