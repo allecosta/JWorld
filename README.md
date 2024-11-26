@@ -7,7 +7,9 @@
 
 - [Codewars](/src/codewars/fundamentals/)
     - Arrays
+    - Logic
     - Mathematics
+    - Strings
 
 - [Edu](/src/edu/tutorialspoint/)
     - tutorialspoint
